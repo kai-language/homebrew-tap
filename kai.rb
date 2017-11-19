@@ -1,9 +1,9 @@
 class Kai < Formula
   desc "An expressive low level programming language"
   homepage "http://docs.kai-lang.org"
-  version "0.1.2"
+  version "0.1.3"
   url "https://github.com/kai-language/kai/releases/download/#{version}/macOS-sierra.tar.gz"
-  sha256 "2c0f857dfdd671f8f04a51389e47c7da6a7a441c10aec1bb8f94f7e016ce31c0"
+  sha256 "c852d880a1904ae60c9f433ae43f363f0169078b0a92524ca2c57bd2974fe47a"
 
   depends_on "libgit2" => :run
 
